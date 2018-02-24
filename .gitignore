@@ -1,0 +1,4 @@
+.vs
+bin/PNGInjector*
+bin/test_*
+obj
